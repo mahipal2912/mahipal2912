@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with **Mobile Development**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/mahipalsinghofficial/](linkedin.com/in/mahipalsinghad/)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/mahipalsinghad/](linkedin.com/in/mahipalsinghad/)
 
 - 💬 Ask me about **Android and Backend Development**
 
-- 📫 How to reach me **Smahipal@gmail.com**
+- 📫 How to reach me **Smahipal778@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

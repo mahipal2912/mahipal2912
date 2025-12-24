@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Mobile Development**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/mahipalsinghad/](linkedin.com/in/mahipalsinghad/)
+- 👨‍💻 My linkding profile [linkedin.com/in/mahipalsinghad/](linkedin.com/in/mahipalsinghad/)
 
 - 💬 Ask me about **Android and Backend Development**
 
